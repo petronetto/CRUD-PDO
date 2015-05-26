@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- See more at: http://www.startutorial.com/articles/view/php-crud-tutorial-part-1 -->
 <html lang="en">
 <head>
     <meta charset="utf-8">
